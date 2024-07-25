@@ -46,7 +46,7 @@ git clone https://github.com/kael558/resistance_coup.git
 2. Install the game
 
 ```sh
-pip install
+pip install -r requirements.txt
 ```
 
 3. Add your OPENAI_API_KEY to .env
